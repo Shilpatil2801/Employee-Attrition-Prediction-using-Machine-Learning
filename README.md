@@ -1,5 +1,5 @@
 # Employee Attrition Prediction using Machine Learning
-
+## XYlofy AI internship week 2 project
 ## 📌 Overview
 
 Employee attrition is a major challenge for organizations, leading to increased recruitment costs, loss of experienced employees, and reduced productivity. This project develops a Machine Learning model to predict whether an employee is likely to leave the company based on various personal, professional, and workplace-related factors.
